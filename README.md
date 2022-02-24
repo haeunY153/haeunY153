@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haeunY153
-- 👀 I’m interested in e-commerce trend, data science and new ICT areas
+- 👀 I’m interested in E-Commerce trend, Data science and new ICT areas
 - 🌱 I’m currently learning Python, Tableau and statistics
 - 📫 Logging daily what I learned
 
