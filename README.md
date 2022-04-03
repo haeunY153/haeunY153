@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Haeun Yim
-- 🚴‍♂️ I worked for +4 years in FMCG Industry as Ecommerce Specialist
-- 👀 I’m interested in E-Commerce trend, Data science and new ICT areas
-- 🌱 I’m currently learning how to deal with solving problems by not only Statistic Analysis, but also ML Algorithms by Python language
+- 👋 **Welcome to Haeun's Github**
+- 🚴‍♂️ I worked for +4 years in FMCG Industry as Ecommerce Specialist. Since 2022, I have studied DataScience to be DataEngineer
+- 🌱 I’m currently learning how to solve problems by not only analytic skills, but also ML Algorithms by Python language
+- 👀 I’m interested in Commerce trend, IT Innovation and Digital Marketing
 - 📫 Logging daily what I learned
 
 <!---
